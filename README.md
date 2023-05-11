@@ -1,1 +1,1 @@
-# ImsProject
+# Interview Management System
